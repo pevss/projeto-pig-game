@@ -1,7 +1,8 @@
 Projeto 3: Pig Game
 ---
+LINK: https://pevss.github.io/projeto-pig-game/
 
-Como último projeto, criei um jogo bem mais complexo que o primeiro. Nesse, trabalhei com dois jogadores simultâneos.
+Com o último projeto, criei um jogo bem mais complexo que o primeiro. Nesse, trabalhei com dois jogadores simultâneos.
 
 O jogo funciona assim:
 
